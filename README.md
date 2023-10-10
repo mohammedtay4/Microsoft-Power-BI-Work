@@ -1,4 +1,4 @@
-Toying around with PowerBI! The files include visualizations and experiments that I did using PowerBI. You can find my COMPLETE project in "PROJECT 1"
+Toying around with PowerBI! The files include visualizations and experiments that I did using PowerBI. You can find my COMPLETE project in "PROJECT-1" file
 
 Power BI is a fantastic business intelligence and data visualization tool that offers many benefits and has gained popularity for good reason:
 
